@@ -1,9 +1,9 @@
 import React from 'react'
 import Logo from './assets/Logo.png'
-import T10 from './assets/Ticket.jpg'
-import T150 from './assets/Ticket150k.jpg'
-import T50 from './assets/Ticket50k.png'
-import T300 from './assets/Ticket300k.jpg'
+import T10 from './assets/Ticket10.png'
+import T150 from './assets/Ticket150.png'
+import T50 from './assets/Ticket50.png'
+import T300 from './assets/Ticket300.png'
 import "./App.css";
 
 
